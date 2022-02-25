@@ -1,0 +1,12 @@
+.footer {
+ background-color: #146DF1;
+ display: flex;
+ position: absolute;
+}
+
+.conteudo-footer span{
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    color: white;
+}

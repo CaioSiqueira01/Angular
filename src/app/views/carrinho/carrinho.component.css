@@ -1,0 +1,11 @@
+#carrinho{height: 700px;}
+.titulo{background-color: blue; height: 50px; width: 200px;
+margin-left: 550px; margin-top: 50px;}
+.titulo h1 {margin-left: 50px;}
+.carrinho h1 {margin-left: 200px;}
+.produto img {margin-left: 200px;}
+.produto h2 {background-color: red; width: 130px; margin-left: 200px;}
+.cep h1 {margin-left: 200px;}
+.form {margin-left: 200px;}
+.form button{margin-left: 20px; background-color: greenyellow;}
+.finalizar button {background-color: blue; height: 50px; margin-left: 200px;}
